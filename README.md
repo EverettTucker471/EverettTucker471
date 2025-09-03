@@ -1,7 +1,7 @@
 ## Hi, I'm Everett 👋
 
 - 🏫 Junior at NC State University studying Computer Science with an AI concentration
-- 💻 Interning at the NC State Center for Geospatial Analytics working on a new sensor driver for our Orbbec Femto Bolt Depth Camera
+- 💻 Interning at the NC State Center for Geospatial Analytics working on a new sensor driver for our Orbbec Femto Bolt Depth Camera, see [r.in.kinect](https://github.com/EverettTucker471/r.in.kinect/tree/femto-bolt)
 - 🌱 Researching UAV Networking with a custom digital twin, which is currently being used to train a GNN-Communication MARL Model, see [RL-AERPAW-DT](https://github.com/EverettTucker471/RL-AERPAW-DT)
 - 🤖 Part of the Software division of AquaPack Robotics working with autonomous navigation and image classification
 - 🥇 Member of the NC State Competitive Programming Club competiting in the Internation Collegiate Programming Contest
