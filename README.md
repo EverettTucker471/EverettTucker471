@@ -7,9 +7,9 @@
 - 🥇 Member of the NC State Competitive Programming Club competiting in the Internation Collegiate Programming Contest
 - 👯 Interested in collaborating on projects within data modeling, analysis, or machine learning, especially within physical systems
 - 🔭 Searching for a Summer 2026 Internship in Data Science, Data Analytics, or Machine Learning
-- ⚡ Fun fact: I used to race sailboats competitively ⛵!
+- ⚡ Fun fact: I used to race sailboats in Lake Michigan 🌊⛵!
 
-🔍 If you want to collaborate or chat, reach out at eftucker@ncsu.edu
+🔍 If you want to collaborate or chat, please reach out at eftucker@ncsu.edu
 
 ### I hope you have an amazing day!
 
