@@ -5,7 +5,7 @@
 - 🌱 Researching UAV Networking with a custom digital twin, which we are currently using to train a GNN-Communication MARL Model, see [RL-AERPAW-DT](https://github.com/EverettTucker471/RL-AERPAW-DT)
 - 🤖 Part of the software division of AquaPack Robotics working with autonomous navigation and image classification, see [ncsurobotics](https://github.com/ncsurobotics)
 - 🥇 Member of the NC State Competitive Programming Club competing in the International Collegiate Programming Contest
-- 👯 Interested in collaborating on projects within data modeling, analysis, or machine learning, especially within physical systems
+- 🤝 Interested in collaborating on projects within data modeling, analysis, or machine learning, especially within physical systems
 - 🔭 Searching for a Summer 2026 Internship in Data Science, Data Analytics, or Machine Learning
 - ⚡ Fun fact: I used to race sailboats in Lake Michigan 🌊⛵!
 
