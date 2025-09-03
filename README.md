@@ -1,6 +1,6 @@
 ## Hi, I'm Everett 👋
 
-- 🏫 Junior at NC State University in the Accelerated Master's program studying Computer Science with an AI Concentration
+- 🏫 Junior at NC State University in the Accelerated Bachelor's/Master's program studying Computer Science with an AI Concentration
 - 💻 Interning at the NC State Center for Geospatial Analytics working on a new C++ depth camera driver for Tangible Landscape, an accessible geospatial modeling tool, see [tangible-landscape](https://github.com/tangible-landscape) and [r.in.kinect](https://github.com/EverettTucker471/r.in.kinect/tree/femto-bolt)
 - 🌱 Researching UAV Networking with a custom digital twin, which we are currently using to train a GNN-Communication MARL Model, see [RL-AERPAW-DT](https://github.com/EverettTucker471/RL-AERPAW-DT)
 - 🤖 Part of the software division of AquaPack Robotics working with autonomous navigation and image classification, see [ncsurobotics](https://github.com/ncsurobotics)
